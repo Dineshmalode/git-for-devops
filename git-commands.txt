@@ -31,3 +31,10 @@
   36 git remote add origin https://github.com/Dineshmalode/git-for-devops.git                                                                                                
   37 git remote -v                                                                                                                                                           
   38 git push origin master     
+
+
+
+
+
+
+  hello dosto 
