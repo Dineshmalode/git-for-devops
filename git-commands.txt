@@ -1,40 +1,11 @@
-2 ls                                                                                                                                                                      
-   3 dir                                                                                                                                                                     
-   4 git init                                                                                                                                                                
-   5 git                                                                                                                                                                     
-   6 git --version                                                                                                                                                           
-   7 git init                                                                                                                                                                
-   8 git init                                                                                                                                                                
-   9 ls                                                                                                                                                                      
-  10 ls -u                                                                                                                                                                   
-  11 ls -U                                                                                                                                                                   
-  12 git status                                                                                                                                                              
-  13 git add testing.py                                                                                                                                                      
-  14 git status                                                                                                                                                              
-  15 git rm --cached testing.py                                                                                                                                              
-  16 git status                                                                                                                                                              
-  17 git add .                                                                                                                                                               
-  18 git statusss                                                                                                                                                            
-  19 git status                                                                                                                                                              
-  20 git commit -m "first Commit "                                                                                                                                           
-  21 ls                                                                                                                                                                      
-  22 rm testing.py                                                                                                                                                           
-  23 rm testing.py                                                                                                                                                           
-  24 ls                                                                                                                                                                      
-  25 git status                                                                                                                                                              
-  26 git restore testing.py                                                                                                                                           history
-                                                                                                                                                             1 git status                                                                                                                                                              
-  32 git add git-commands.txt                                                                                                                                                
-  33 git status                                                                                                                                                              
-  34 git commit -m "Added Git-commands"                                                                                                                                      
-  35 git status                                                                                                                                                              
-  36 git remote add origin https://github.com/Dineshmalode/git-for-devops.git                                                                                                
-  37 git remote -v                                                                                                                                                           
-  38 git push origin master     
-
-
-
-
-
+ls                                                                                                                                      dir                                                                                                                                     git init                                                                                                                                git                                                                                                                                     git --version                                                                                                                           git init                                                                                                                                git init                                                                                                                                ls                                                                                                                                      ls -u                           
+ls -U                                                                                                                                   git status                                                                                                                              git add testing.py                                                                                                                      git status                                                                                                                              git rm --cached testing.py                                                                                                              git status                                                                                                                              git add .                                                                                                                               git statusss                                                                                                                            git status                                                                                                                              git commit -m "first Commit "                                                                                                           ls                                                                                                                                      rm testing.py                                                                                                                           rm testing.py                                                                                                                           ls                                                                                                                                      git status                                                                                                                         
+git restore testing.py                                                                                                               git add git-commands.txt                                                                                                                git status                                                                                                                
+git commit -m "Added Git-commands"                                                                                                      git status 
+git remote add origin https://github.com/Dineshmalode/git-for-devops.git                                                                git remote -v                                                                                                                           git push origin master
 
   hello dosto 
+
+
+
+this changes for Pull Commands 
