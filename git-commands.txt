@@ -22,7 +22,12 @@
   23 rm testing.py                                                                                                                                                           
   24 ls                                                                                                                                                                      
   25 git status                                                                                                                                                              
-  26 git restore testing.py                                                                                                                                                  
-  27 git status                                                                                                                                                              
-  28 git hestory                                                                                                                                                             
-  29  hestory    
+  26 git restore testing.py                                                                                                                                           history
+                                                                                                                                                             1 git status                                                                                                                                                              
+  32 git add git-commands.txt                                                                                                                                                
+  33 git status                                                                                                                                                              
+  34 git commit -m "Added Git-commands"                                                                                                                                      
+  35 git status                                                                                                                                                              
+  36 git remote add origin https://github.com/Dineshmalode/git-for-devops.git                                                                                                
+  37 git remote -v                                                                                                                                                           
+  38 git push origin master     
